@@ -1,5 +1,3 @@
-//youtube.com/TARUNKUMARDAHAKE
-//facebook.com/TARUNKUMARDAHAKE
 
 #include <PID_v1.h>
 #include <LMotorController.h>
